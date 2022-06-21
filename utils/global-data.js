@@ -4,7 +4,7 @@ export const getGlobalData = () => {
     : 'Solar Panel In VIC, Australia';
   const blogTitle = process.env.BLOG_TITLE
     ? decodeURI(process.env.BLOG_TITLE)
-    : 'Next.js Blog Theme';
+    : 'Solar Panel In VIC, Australia';
   const footerText = process.env.BLOG_FOOTER_TEXT
     ? decodeURI(process.env.BLOG_FOOTER_TEXT)
     : 'All rights reserved.';
