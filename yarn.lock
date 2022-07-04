@@ -38,6 +38,11 @@
   dependencies:
     "regenerator-runtime" "^0.13.4"
 
+"@corex/deepmerge@^4.0.26":
+  "integrity" "sha512-q/yVUnqckA8Do+EvAfpy7RLdumnBy9ZsducMUtZTvpdbJC7azEf1hGtnYYxm0QfphYxjwggv6XtH64prvS1W+A=="
+  "resolved" "https://registry.npmjs.org/@corex/deepmerge/-/deepmerge-4.0.29.tgz"
+  "version" "4.0.29"
+
 "@eslint/eslintrc@^0.4.3":
   "integrity" "sha512-J6KFFz5QCYUJq3pf0mjEcCJVERbzv71PUIDczuh9JkwGEzced6CO5ADLHB1rbf/+oPBtoPfMYNOpGDzCANlbXw=="
   "resolved" "https://registry.npmjs.org/@eslint/eslintrc/-/eslintrc-0.4.3.tgz"
@@ -153,7 +158,7 @@
     "slash" "^3.0.0"
     "tiny-glob" "^0.2.9"
 
-"@next/env@12.1.6":
+"@next/env@*", "@next/env@12.1.6":
   "integrity" "sha512-Te/OBDXFSodPU6jlXYPAXpmZr/AkG6DCATAxttQxqOWaq6eDFX25Db3dK0120GZrSZmv4QCe9KsZmJKDbWs4OA=="
   "resolved" "https://registry.npmjs.org/@next/env/-/env-12.1.6.tgz"
   "version" "12.1.6"
@@ -3637,7 +3642,7 @@
   dependencies:
     "brace-expansion" "^1.1.7"
 
-"minimist@^1.1.1", "minimist@^1.2.0", "minimist@^1.2.3":
+"minimist@^1.1.1", "minimist@^1.2.0", "minimist@^1.2.3", "minimist@^1.2.6":
   "integrity" "sha512-Jsjnk4bw3YJqYzbdyBiNsPWHPfO++UGG749Cxs6peCu5Xg4nrena6OVxOYxrQTqww0Jmwt+Ref8rggumkTLz9Q=="
   "resolved" "https://registry.npmjs.org/minimist/-/minimist-1.2.6.tgz"
   "version" "1.2.6"
@@ -3779,6 +3784,14 @@
     "chokidar" "^3.4.0"
     "commander" "^5.0.0"
     "express" "^4.17.1"
+
+"next-sitemap@^3.1.8":
+  "integrity" "sha512-dd9NBDk2tpRsUXjCyDh2qkROsKCLHE4AOsuefKxAkOquG5Mbck1Zv+APLiu+eBVrQXvroXrZr6zgU9thzlTowg=="
+  "resolved" "https://registry.npmjs.org/next-sitemap/-/next-sitemap-3.1.8.tgz"
+  "version" "3.1.8"
+  dependencies:
+    "@corex/deepmerge" "^4.0.26"
+    "minimist" "^1.2.6"
 
 "next@*", "next@>=10.2.0", "next@latest":
   "integrity" "sha512-cebwKxL3/DhNKfg9tPZDQmbRKjueqykHHbgaoG4VBRH3AHQJ2HO0dbKFiS1hPhe1/qgc2d/hFeadsbPicmLD+A=="

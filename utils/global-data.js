@@ -8,7 +8,7 @@ export const getGlobalData = () => {
   const footerText = process.env.BLOG_FOOTER_TEXT
     ? decodeURI(process.env.BLOG_FOOTER_TEXT)
     : 'All rights reserved.';
-
+  const baseUrl = "https://solarpanelvic.netlify.app/";
   return {
     name,
     blogTitle,
