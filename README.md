@@ -1,4 +1,4 @@
-![High Power Solar](highpowersolarbanner.svg)
+![High Power Solar](highpowersolar-banner.svg)
 "High Power Solar ( HP Solar Pty Ltd ) group of individuals who are keen to make Victorians self-reliant in energy. Our ideology comprises sustainability & environmental well-being via using solar power. High Power Solar Is a [Solar Retailer In Point Cook](https://highpowersolar.com.au)
 
 We are providing following services :
