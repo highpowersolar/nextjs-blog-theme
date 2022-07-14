@@ -1,3 +1,5 @@
+This blog repository is created and maintained by [High Power Solar](https://highpowersolar.com.au) Team.
+
 ![High Power Solar](highpowersolar-banner.svg)
 "High Power Solar ( HP Solar Pty Ltd ) group of individuals who are keen to make Victorians self-reliant in energy. Our ideology comprises sustainability & environmental well-being via using solar power. High Power Solar Is a [Solar Retailer In Point Cook](https://highpowersolar.com.au)
 
@@ -9,8 +11,6 @@ We are providing following services :
 4. Solar Inverter
 5. [Residential Solar Panels](https://highpowersolar.com.au/residential-solar-system/)
 6. [Commercial Solar Panels](https://highpowersolar.com.au/commercial-solar-system/)
-
-This blog repository is created and maintained by [High Power Solar](https://highpowersolar.com.au) Team.
 ---
 ![Netlify Next.js Blog Template designed by Bejamas](github-banner.svg)
 
